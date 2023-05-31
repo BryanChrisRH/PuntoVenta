@@ -1,0 +1,11 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "librerias/AbsoluteLayout.jar",
+        "librerias/itextpdf-5.5.1.jar",
+        "librerias/jcalendar-1.4.jar",
+        "librerias/jcommon-1.0.23.jar",
+        "librerias/jfreechart-1.0.19.jar",
+        "librerias/mysql-connector-java-8.0.19.jar"
+    ]
+}
